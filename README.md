@@ -97,4 +97,3 @@ Looking for someone to automate workflows, build AI tools, or brainstorm wellbei
 ###
 
 ![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Somesh&show_icons=true&theme=radical)
-![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Somesh6&show_icons=true&theme=radical)
