@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">[About me](https://someshbhardwajdev.lovable.app/about)</h2>
 
 ###
 
