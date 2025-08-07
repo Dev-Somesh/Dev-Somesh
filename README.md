@@ -21,31 +21,31 @@
 <h2 align="left">I Work With</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack logo" />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 
 <p align="left">
 🔧 Systems Administration (Google Workspace, Okta, Atlassian Suite, BambooHR, Zoom, Slack)<br>
-⚙️ Automation & Scripting (PowerShell, Bash, Playwright, Google Apps Script, Make.com, Zapier, N8N)<br>
+⚙️ Automation & Scripting (PowerShell, Bash, Playwright, Google Apps Script, Make.com, Zapier, n8n)<br>
 📊 Data Analytics (Power BI, Tableau, GAT+ auditing, Google Sheets automation)<br>
 🛠️ Tech Ops & Cost Optimization (IT inventory, SaaS management, budget automation)<br>
 🖥️ IT Support Lifecycle (Automated onboarding/offboarding, SOPs, compliance frameworks)<br>
@@ -70,7 +70,7 @@
 <h2 align="left">🧰 Tools & Technologies</h2>
 
 - **Languages & Frameworks**: JavaScript, TypeScript, Python, React, Bash, PowerShell  
-- **Automation & Testing**: Playwright, GitHub Actions, Make.com, Zapier, N8N, Google Apps Script  
+- **Automation & Testing**: Playwright, GitHub Actions, Make.com, Zapier, n8n, Google Apps Script  
 - **System Administration**: Google Workspace, Okta, Atlassian, BambooHR, Zoom, Slack  
 - **Analytics & Reporting**: Power BI, Tableau, GAT+  
 - **Collaboration & PM**: Notion, Trello, Jira, Confluence, Huly, Asana
@@ -83,6 +83,13 @@
 - 🌐 Developing Chrome extensions & Google Workspace add-ons  
 - 🧘 Prototyping wellbeing-tech solutions to enhance focus and mental wellness  
 - 💬 Exploring intelligent companion tools that merge AI with mindfulness
+
+###
+
+<h2 align="left">📂 Featured Projects</h2>
+
+- 🔗 [AI Civic Issue Reporter](https://github.com/Dev-Somesh/AI-civic-issue-reporting) – AI-powered platform to report & manage civic issues  
+- 🧩 [Mindful Assistant (WIP)](https://github.com/Dev-Somesh/mindful-assistant) – Intelligent AI tool for daily focus & wellbeing tracking  
 
 ###
 
@@ -99,10 +106,14 @@ Whether you're automating systems, building productivity tools, or exploring AI 
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://someshbhardwaj.me">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ###
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Somesh&show_icons=true&theme=radical)
+![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Somesh&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Somesh&layout=compact&theme=radical)
