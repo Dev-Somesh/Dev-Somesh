@@ -1,10 +1,13 @@
-<h1 align="center">👋 Hi, I'm Somesh Bhardwaj <br> [ System Admin · Automation Specialist · AI & Wellbeing Innovator ]</h1>
+<h1 align="center">👋 Hi, I'm Somesh Bhardwaj</h1>
+<h3 align="center">System Admin · Automation Specialist · AI & Wellbeing Innovator</h3>
 
 ###
 
 <h2 align="left">About Me</h2>
 
-[🌐 Portfolio](https://someshbhardwajdev.lovable.app/about)
+<a href="https://someshbhardwaj.me">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 <p align="left">
 ✨ Tech tinkerer since 2023<br>
