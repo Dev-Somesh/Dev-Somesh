@@ -427,17 +427,19 @@ An intelligent companion for daily reflection, focus tracking, and balanced prod
 
 ## 🌌 My Year in 3D
 
+> Official `skyline.github.com` was discontinued. Use the community 3D viewer below.
+
 <p align="center">
-  <a href="https://skyline.github.com/Dev-Somesh/2025">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline%202025-View%20in%203D%20🏔️-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2025"/>
+  <a href="https://gitskyline.vercel.app/Dev-Somesh?endDate=2025-12-31&color=%230ea5e9">
+    <img src="https://img.shields.io/badge/3D%20Skyline%202025-View%20Contributions-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Skyline 2025"/>
   </a>
-  <a href="https://skyline.github.com/Dev-Somesh/2026">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline%202026-View%20in%203D%20🏔️-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2026"/>
+  <a href="https://gitskyline.vercel.app/Dev-Somesh?color=%238b5cf6">
+    <img src="https://img.shields.io/badge/3D%20Skyline-Live%20Year-View-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Skyline Live"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>↑ Click to explore a 3D visualization of my contribution history — built by GitHub</sub>
+  <sub>↑ Interactive 3D view of contribution history · powered by <a href="https://gitskyline.vercel.app">Git Skyline</a></sub>
 </p>
 
 ---

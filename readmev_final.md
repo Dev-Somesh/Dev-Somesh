@@ -592,15 +592,21 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 
 ---
 
-## `$ open skyline --year 2025 2026`
+## `$ open skyline --3d`
+
+> **Note:** Official [skyline.github.com](https://skyline.github.com) was **discontinued by GitHub** (shows “The lights are out for now”). The links below use a community 3D skyline viewer instead.
 
 <p align="center">
-  <a href="https://skyline.github.com/Dev-Somesh/2025">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline%202025-View%20in%203D-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Skyline 2025"/>
+  <a href="https://gitskyline.vercel.app/Dev-Somesh?endDate=2025-12-31&color=%2310B981">
+    <img src="https://img.shields.io/badge/3D%20Skyline-2025%20Contributions-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Skyline 2025"/>
   </a>
-  <a href="https://skyline.github.com/Dev-Somesh/2026">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline%202026-View%20in%203D-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Skyline 2026"/>
+  <a href="https://gitskyline.vercel.app/Dev-Somesh?color=%2310B981">
+    <img src="https://img.shields.io/badge/3D%20Skyline-Live%20Year-View-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Skyline Live"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>CLI alternative: <code>gh extension install github/gh-skyline</code> → <code>gh skyline --year 2025</code></sub>
 </p>
 
 ---
