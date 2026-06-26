@@ -660,7 +660,13 @@ Human-computer interaction, systems thinking, and the ethics of AI in everyday l
 ## `$ fortune --dev`
 
 <p align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="./profile/fortune-quote.svg" alt="Automate the mundane. Amplify the human. — Somesh Bhardwaj"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/If%20I%27m%20doing%20it%20twice-I%27m%20writing%20the%20script-10B981?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/Systems-over%20silos-F59E0B?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/Ship%20v1%20%3E%20perfect%20v0-10B981?style=flat-square" alt=""/>
 </p>
 
 ---

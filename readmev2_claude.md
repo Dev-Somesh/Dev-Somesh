@@ -493,7 +493,7 @@ Books on human-computer interaction, systems thinking, and the ethics of AI in e
 ## 💬 Random Dev Wisdom
 
 <p align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="./profile/fortune-quote.svg" alt="Automate the mundane. Amplify the human. — Somesh Bhardwaj"/>
 </p>
 
 ---
