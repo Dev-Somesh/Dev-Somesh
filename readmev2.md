@@ -3,7 +3,7 @@
      Theme: Cosmic Tech · Cyan + Violet + Pink
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:8b5cf6,100:ec4899&height=230&section=header&text=Somesh%20Bhardwaj&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=System%20Admin%20·%20Automation%20Architect%20·%20AI%20%26%20Wellbeing%20Innovator&descAlignY=65&descSize=17&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=230&section=header&text=Somesh%20Bhardwaj&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=System%20Admin%20%7C%20Automation%20Architect%20%7C%20AI%20%26%20Wellbeing%20Innovator&descAlignY=65&descSize=17&descColor=e2e8f0" width="100%"/>
 
 <p align="center">
   <a href="https://someshbhardwaj.me">
@@ -434,7 +434,7 @@ Books on human-computer interaction, systems thinking, and the ethics of AI in e
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,40:8b5cf6,100:0ea5e9&height=120&section=footer&fontSize=14&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer&fontSize=14&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <p align="center">
   <sub><i>⚡ Automating the world · one workflow at a time · <b>Somesh Bhardwaj</b></i></sub>
