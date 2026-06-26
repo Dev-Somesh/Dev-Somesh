@@ -112,6 +112,9 @@ Whether you're automating systems, building productivity tools, or exploring AI 
   <a href="https://someshbhardwaj.dev">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://blog.someshbhardwaj.dev/">
+    <img src="https://img.shields.io/badge/Blog-blog.someshbhardwaj.dev-000?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
 </p>
 
 ###

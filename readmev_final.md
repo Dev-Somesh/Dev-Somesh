@@ -23,6 +23,9 @@
   <a href="https://someshbhardwaj.dev">
     <img src="https://img.shields.io/badge/Portfolio-someshbhardwaj.dev-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://blog.someshbhardwaj.dev/">
+    <img src="https://img.shields.io/badge/Blog-blog.someshbhardwaj.dev-F59E0B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  </a>
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -68,6 +71,7 @@ $ cat profile.json
   "managing":  "250+ enterprise SaaS apps",
   "stack":     ["Make","Playwright","React","TypeScript",
                 "OpenAI","Supabase","n8n","Slack APIs"],
+  "blog":      "https://blog.someshbhardwaj.dev",
   "open_to":   ["AI Automation Engineer",
                 "Tech Operations Architect",
                 "AI Product Engineer",
@@ -722,6 +726,9 @@ open_to:
   </a>
   <a href="https://someshbhardwaj.dev">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://blog.someshbhardwaj.dev/">
+    <img src="https://img.shields.io/badge/Blog-Read%20Articles-F59E0B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
   </a>
   <a href="https://github.com/Dev-Somesh">
     <img src="https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>

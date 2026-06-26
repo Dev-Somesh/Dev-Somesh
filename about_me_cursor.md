@@ -50,6 +50,7 @@ Somesh Bhardwaj is evolving from a traditional **System Administrator / QA Engin
 | **Email (primary)** | [hello@someshbhardwaj.dev](mailto:hello@someshbhardwaj.dev) |
 | **Email** | [ITDeveloper06@gmail.com](mailto:ITDeveloper06@gmail.com) |
 | **Portfolio** | [someshbhardwaj.dev](https://someshbhardwaj.dev) |
+| **Blog** | [blog.someshbhardwaj.dev](https://blog.someshbhardwaj.dev/) |
 | **LinkedIn** | [linkedin.com/in/ersomeshbhardwaj](https://www.linkedin.com/in/ersomeshbhardwaj/) |
 | **GitHub** | [github.com/Dev-Somesh](https://github.com/Dev-Somesh) |
 
