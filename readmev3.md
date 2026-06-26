@@ -4,7 +4,9 @@
      ══════════════════════════════════════════════════════════════ -->
 
 <!-- ─── 1. ANIMATED BANNER ──────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:064E3B,100:10B981&height=220&section=header&text=Somesh%20Bhardwaj&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20Solutions%20Architect%20%26%20Systems%20Integrator&descAlignY=72&descSize=18&descColor=6EE7B7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:064E3B,100:10B981&height=160&section=header&text=Somesh%20Bhardwaj&fontSize=52&fontColor=fff&animation=fadeIn" width="100%"/>
+
+<h3 align="center">AI Solutions Architect &nbsp;·&nbsp; Systems Integrator &nbsp;·&nbsp; Automation Engineer</h3>
 
 <!-- ─── 2. TYPING SVG ─────────────────────────────────────────────── -->
 <p align="center">
@@ -22,8 +24,8 @@
 
 <!-- ─── 4. CTA BUTTONS ────────────────────────────────────────────── -->
 <p align="center">
-  <a href="https://someshbhardwaj.me">
-    <img src="https://img.shields.io/badge/Portfolio-someshbhardwaj.me-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/Portfolio-someshbhardwaj.dev-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -363,8 +365,8 @@ open_to:
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://someshbhardwaj.me">
-    <img src="https://img.shields.io/badge/Portfolio-someshbhardwaj.me-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/Portfolio-someshbhardwaj.dev-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Dev-Somesh">
     <img src="https://img.shields.io/badge/Explore%20My%20Work-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>

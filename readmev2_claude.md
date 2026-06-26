@@ -3,7 +3,9 @@
      Theme: Cosmic Tech · Cyan + Violet + Pink
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=230&section=header&text=Somesh%20Bhardwaj&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=System%20Admin%20%7C%20Automation%20Architect%20%7C%20AI%20%26%20Wellbeing%20Innovator&descAlignY=65&descSize=17&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=160&section=header&text=Somesh%20Bhardwaj&fontSize=52&fontColor=fff&animation=twinkling" width="100%"/>
+
+<h3 align="center">AI Solutions Architect &nbsp;·&nbsp; Systems Integrator &nbsp;·&nbsp; Automation Engineer</h3>
 
 <p align="center">
   <a href="https://someshbhardwaj.dev">
