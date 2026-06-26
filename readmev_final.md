@@ -222,7 +222,69 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 
 ---
 
-## `$ ./projects --all`
+## `$ gh repo list --public --featured`
+
+> Pinned on profile · click through to explore
+
+<p align="center">
+  <a href="https://github.com/Dev-Somesh/adhirachna">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=adhirachna&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="adhirachna"/>
+  </a>
+  <a href="https://github.com/Dev-Somesh/justflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=justflow&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="justflow"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dev-Somesh/Dev-Wrapped">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=Dev-Wrapped&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="Dev-Wrapped"/>
+  </a>
+  <a href="https://github.com/Dev-Somesh/CarbonWise_Coach">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=CarbonWise_Coach&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="CarbonWise_Coach"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dev-Somesh/carbontrace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=carbontrace&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="carbontrace"/>
+  </a>
+</p>
+
+| Repository | Commits | Language | Visibility | What it is |
+|------------|:-------:|----------|:----------:|------------|
+| [**adhirachna**](https://github.com/Dev-Somesh/adhirachna) | `208` | TypeScript | 🌐 Public | Modern React app — auth, blog, admin dashboard, Supabase + Contentful + Netlify |
+| [**justflow**](https://github.com/Dev-Somesh/justflow) | `79` | TypeScript | 🌐 Public | Workflow automation & project management — visual builders, monitoring, integrations |
+| [**Dev-Wrapped**](https://github.com/Dev-Somesh/Dev-Wrapped) | `69` | TypeScript | 🌐 Public | Developer "year wrapped" — calendar-year story of your GitHub work |
+| [**CarbonWise_Coach**](https://github.com/Dev-Somesh/CarbonWise_Coach) | `13` | TypeScript | 🌐 Public | AI sustainability coaching — carbon footprint tracking & recommendations |
+| [**carbontrace**](https://github.com/Dev-Somesh/carbontrace) | `4` | JavaScript | 🌐 Public | Carbon tracking companion tooling |
+
+---
+
+## `$ gh repo list --private --vault`
+
+> Enterprise & client work · private repos — summarized here because they can't be pinned publicly
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔒-Private%20Repository%20Vault-064E3B?style=for-the-badge&logo=github&logoColor=10B981" alt="Private Vault"/>
+</p>
+
+| Repository | Commits | Stack | Status | What it is |
+|------------|:-------:|-------|:------:|------------|
+| `FlourishOS-Archive` | **282** | TypeScript · React | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | **Event Pro** — Contentment Foundation event & engagement platform |
+| `curryosity-by-seeds-of-life` | **100** | TypeScript · React | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | Official **Curryosity Card Games** website — SEO, interactive UX |
+| `someshbhardwajdev` | **99** | TypeScript | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | **someshbhardwaj.dev** portfolio — AI-powered personal site |
+| `Somesh-Bhardwaj-Portfolio-Ai-Chatbot` | **92** | TypeScript | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | Portfolio + **Gemini AI chatbot** integration |
+| `aiokr` | **79** | TypeScript | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | OKR tracking & goal-management platform |
+| `Contentment-OS-AI` | **2** | TypeScript | ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square) | **Contentment OS** — internal AI ops & platform tooling |
+| `mindful-focusmate` | **19** | TypeScript | ![WIP](https://img.shields.io/badge/WIP-F59E0B?style=flat-square) | **Mindful Assistant** — AI focus, reflection & wellbeing companion |
+| `AI_civic_issue_reporting` | **13** | Python | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | **AI Civic Issue Reporter** — community issue reporting & tracking |
+| `Eira-Ethnics-Dashboard` | **6** | TypeScript | ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square) | Eira Ethnics business dashboard |
+
+<sub>🔒 Private · commit counts from default branch history · repos available for case-study walkthrough on request</sub>
+
+---
+
+## `$ ./projects --highlights`
 
 <details open>
 <summary><b>🤖 Governance Slack Bot — IT Governance Automation</b></summary><br/>
@@ -238,8 +300,8 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 ![Slack](https://img.shields.io/badge/Slack%20APIs-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+![Private](https://img.shields.io/badge/Repo-Private-064E3B?style=flat-square)
 
-[**→ GitHub**](https://github.com/Dev-Somesh)
 </details>
 
 <details open>
@@ -250,14 +312,14 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 | | |
 |--|--|
 | **Stack** | React · TypeScript · OpenAI API · Tailwind CSS |
-| **Scale** | Full MVP shipped end-to-end |
+| **Repo** | [`CarbonWise_Coach`](https://github.com/Dev-Somesh/CarbonWise_Coach) · 13 commits · public |
 | **Impact** | AI product concept → live interface · sustainability meets LLM |
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Shipped-10B981?style=flat-square)
 
-[**→ GitHub**](https://github.com/Dev-Somesh)
+[**→ Repository**](https://github.com/Dev-Somesh/CarbonWise_Coach)
 </details>
 
 <details>
@@ -273,8 +335,8 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Shipped-10B981?style=flat-square)
+![Private](https://img.shields.io/badge/Repo-Private-064E3B?style=flat-square)
 
-[**→ GitHub**](https://github.com/Dev-Somesh)
 </details>
 
 <details>
@@ -284,13 +346,13 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 
 | | |
 |--|--|
-| **Stack** | React · TypeScript · AI integration |
-| **Scale** | Live · community-facing |
-| **Impact** | Civic tech + AI · end-to-end shipped public product |
+| **Stack** | Python · React · TypeScript · AI integration |
+| **Repo** | `AI_civic_issue_reporting` · 13 commits · 🔒 private |
+| **Impact** | Civic tech + AI · end-to-end shipped product |
 
 ![Status](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+![Private](https://img.shields.io/badge/Repo-Private-064E3B?style=flat-square)
 
-[**→ Repository**](https://github.com/Dev-Somesh/AI-civic-issue-reporting)
 </details>
 
 <details>
@@ -301,12 +363,12 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 | | |
 |--|--|
 | **Stack** | React · TypeScript · Tailwind · LLM APIs |
-| **Scale** | Active development |
+| **Repo** | `mindful-focusmate` · 19 commits · 🔒 private |
 | **Impact** | Exploring AI × mindfulness as a product space |
 
 ![Status](https://img.shields.io/badge/Status-WIP-F59E0B?style=flat-square)
+![Private](https://img.shields.io/badge/Repo-Private-064E3B?style=flat-square)
 
-[**→ Repository**](https://github.com/Dev-Somesh/mindful-assistant)
 </details>
 
 <details>
@@ -323,7 +385,6 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-10B981?style=flat-square)
 
-[**→ GitHub**](https://github.com/Dev-Somesh)
 </details>
 
 ---
@@ -413,7 +474,7 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 ## `$ trophy-case --user Dev-Somesh`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Somesh&theme=matrix&no-frame=true&row=1&column=6&margin_w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Dev-Somesh&theme=matrix&no-frame=true&row=1&column=6&margin_w=8" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -501,7 +562,7 @@ Human-computer interaction, systems thinking, and the ethics of AI in everyday l
 building:
   - AI-augmented IT ops workflows (Make + OpenAI + Slack)
   - Chrome extensions & Google Workspace add-ons
-  - Mindful Assistant — AI companion for focus & wellbeing
+  - Mindful Assistant (`mindful-focusmate`) — AI companion for focus & wellbeing
 
 learning:
   - AI agent frameworks & multi-agent orchestration
