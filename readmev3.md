@@ -16,6 +16,8 @@
 <!-- ─── 3. INFO BADGES ────────────────────────────────────────────── -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-10B981?style=flat-square&logoColor=white" alt="India"/>
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%202012-10B981?style=flat-square" alt="Education"/>
+  <img src="https://img.shields.io/badge/Contentment%20Foundation-Feb%202021%E2%80%93Present-F59E0B?style=flat-square" alt="Current role"/>
   <img src="https://img.shields.io/badge/Role-AI%20Solutions%20Architect-F59E0B?style=flat-square" alt="Role"/>
   <img src="https://img.shields.io/badge/Focus-Systems%20Integration-10B981?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-064E3B?style=flat-square&logoColor=white" alt="Status"/>
@@ -30,8 +32,11 @@
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:hello@someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/hello@someshbhardwaj.dev-10B981?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
   <a href="mailto:ITDeveloper06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-ITDeveloper06%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Dev-Somesh">
     <img src="https://img.shields.io/badge/GitHub-Dev--Somesh-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -60,7 +65,7 @@ $ whoami
 $ cat profile.json
 {
   "role":       "AI Solutions Architect & Systems Integrator",
-  "experience": "3+ years — IT Ops, Automation, AI Integration, Platform Eng",
+  "experience": "5+ years at Contentment Foundation (Feb 2021–Present) · B.Tech CS 2012 · in tech since 2012",
   "domain":     "SaaS Operations | Workflow Automation | AI Products | Web Eng",
   "stack":      ["Playwright","Make","n8n","React","TypeScript","OpenAI","Supabase"],
   "managing":   "250+ enterprise SaaS apps",
@@ -226,7 +231,7 @@ $ cat profile.json
 ## `$ cat experience.log | sort -r`
 
 ### Contentment Foundation &nbsp;·&nbsp; AI Automation & Platform Operations
-`2023 – Present` &nbsp;|&nbsp; ![IT Ops](https://img.shields.io/badge/IT%20Ops-10B981?style=flat-square) ![AI](https://img.shields.io/badge/AI%20Automation-F59E0B?style=flat-square) ![Integration](https://img.shields.io/badge/Systems%20Integration-064E3B?style=flat-square&logoColor=white)
+`Feb 2021 – Present` &nbsp;|&nbsp; ![IT Ops](https://img.shields.io/badge/IT%20Ops-10B981?style=flat-square) ![AI](https://img.shields.io/badge/AI%20Automation-F59E0B?style=flat-square) ![Integration](https://img.shields.io/badge/Systems%20Integration-064E3B?style=flat-square&logoColor=white)
 
 - Executed complete digital transformation — migrated codebase to GitHub, rebuilt web presence, restructured IT infrastructure from ground up
 - Designed and deployed Slack integrations, Wix automations, and SendGrid email infrastructure serving the entire org
@@ -239,7 +244,7 @@ $ cat profile.json
 ---
 
 ### Test Automation Engineering &nbsp;·&nbsp; QA & Playwright Automation
-`2023` &nbsp;|&nbsp; ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![QA](https://img.shields.io/badge/Test%20Automation-F59E0B?style=flat-square)
+`Earlier in career` &nbsp;|&nbsp; ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![QA](https://img.shields.io/badge/Test%20Automation-F59E0B?style=flat-square)
 
 - Automated TTpro — a complex enterprise supply-chain platform — covering multi-role user flows, forms, inventory, transactions, and product management
 - Architected test suites using Page Object Model for scalability and long-term maintainability; focused on *why frameworks are structured*, not just how to write tests
@@ -356,8 +361,11 @@ open_to:
 </p>
 
 <p align="center">
+  <a href="mailto:hello@someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/Say%20Hello-hello@someshbhardwaj.dev-10B981?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
   <a href="mailto:ITDeveloper06@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-ITDeveloper06%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-ITDeveloper06%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 

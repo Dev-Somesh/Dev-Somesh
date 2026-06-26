@@ -11,8 +11,11 @@
   <a href="https://someshbhardwaj.dev">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-someshbhardwaj.dev-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="mailto:hello@someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/hello@someshbhardwaj.dev-0ea5e9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
   <a href="mailto:ITDeveloper06@gmail.com">
-    <img src="https://img.shields.io/badge/📬%20Email-ITDeveloper06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/ITDeveloper06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -44,7 +47,8 @@
 name:       Somesh Bhardwaj
 role:       AI Solutions Architect & Systems Integrator
 location:   India (IST — UTC+5:30)
-started:    2023
+started:    Feb 2021 (Contentment Foundation) · in tech since 2012
+education:  B.Tech, Computer Science — 2012
 
 currently:
   - AI-augmented IT operations workflows (Make + OpenAI + Slack)
@@ -70,7 +74,8 @@ open_to:
 
 **📊 By the numbers:**
 
-![3+ Years](https://img.shields.io/badge/Experience-3%2B%20Years-0ea5e9?style=flat-square)
+![5+ Years CF](https://img.shields.io/badge/Contentment%20Foundation-5%2B%20Years-0ea5e9?style=flat-square)
+![B.Tech CS](https://img.shields.io/badge/B.Tech-Computer%20Science%202012-8b5cf6?style=flat-square)
 ![250+ Apps](https://img.shields.io/badge/SaaS%20Apps%20Managed-250%2B-8b5cf6?style=flat-square)
 ![20+ Platforms](https://img.shields.io/badge/Platforms%20Integrated-20%2B-ec4899?style=flat-square)
 ![AI Products](https://img.shields.io/badge/AI%20Products%20Shipped-5%2B-06d6a0?style=flat-square)
@@ -92,14 +97,20 @@ Complexity should bow to clarity — whether that's a PowerShell script that rep
 ## 🛤️ Journey Timeline
 
 ```
-2023 ─── 🌱 First commit · SysAdmin foundations · Google Workspace & Okta
-          └─ Scripting with Bash/PowerShell · IT support lifecycle automation
+2012 ─── 🎓 B.Tech, Computer Science · entered the tech field
+          └─ Development, systems, QA, and engineering foundations
 
-2024 ─── ⚙️  Deep dive into automation · Playwright test suites
+2012–2021 ─── 🔧 Ongoing tech engagement across projects and roles
+          └─ Test automation · product thinking · systems integration
+
+2021 ─── 🏢 Contentment Foundation (Feb) · AI automation & platform ops
+          └─ Google Workspace & Okta · IT support lifecycle automation
+
+2022 ─── ⚙️  Deep dive into automation · Playwright test suites
           ├─ Make.com, Zapier, n8n workflow pipelines
           └─ Data dashboards (Power BI · Tableau · GAT+)
 
-2025 ─── 🤖 AI enters the picture · civic tools & mindful tech
+2024 ─── 🤖 AI enters the picture · civic tools & mindful tech
           ├─ AI Civic Issue Reporter — live & helping communities
           └─ Mindful Assistant — WIP · daily focus + wellbeing AI
 
@@ -321,7 +332,7 @@ An intelligent companion for daily reflection, focus tracking, and balanced prod
 ## 💼 Experience Log
 
 ### Contentment Foundation &nbsp;·&nbsp; AI Automation & Platform Operations
-`2023 – Present` &nbsp;|&nbsp; ![IT Ops](https://img.shields.io/badge/IT%20Ops-0ea5e9?style=flat-square) ![AI](https://img.shields.io/badge/AI%20Automation-8b5cf6?style=flat-square) ![Integration](https://img.shields.io/badge/Systems%20Integration-ec4899?style=flat-square)
+`Feb 2021 – Present` &nbsp;|&nbsp; ![IT Ops](https://img.shields.io/badge/IT%20Ops-0ea5e9?style=flat-square) ![AI](https://img.shields.io/badge/AI%20Automation-8b5cf6?style=flat-square) ![Integration](https://img.shields.io/badge/Systems%20Integration-ec4899?style=flat-square)
 
 - Executed complete digital transformation — migrated codebase to GitHub, rebuilt web presence, restructured IT infrastructure from the ground up
 - Designed and deployed Slack integrations, Wix automations, and SendGrid email infrastructure serving the entire organisation
@@ -334,7 +345,7 @@ An intelligent companion for daily reflection, focus tracking, and balanced prod
 ---
 
 ### Test Automation Engineering &nbsp;·&nbsp; QA & Playwright Automation
-`2023` &nbsp;|&nbsp; ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![QA](https://img.shields.io/badge/Test%20Automation-8b5cf6?style=flat-square)
+`Earlier in career` &nbsp;|&nbsp; ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![QA](https://img.shields.io/badge/Test%20Automation-8b5cf6?style=flat-square)
 
 - Automated TTpro — a complex enterprise supply-chain platform — covering multi-role user flows, inventory, transactions, and product management end-to-end
 - Architected test suites using Page Object Model for scalability; focused on framework architecture and long-term maintainability, not just coverage
@@ -522,8 +533,11 @@ open_to:
 </p>
 
 <p align="center">
+  <a href="mailto:hello@someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/Say%20Hello%20👋-hello@someshbhardwaj.dev-0ea5e9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
   <a href="mailto:ITDeveloper06@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello%20👋-ITDeveloper06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-ITDeveloper06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 

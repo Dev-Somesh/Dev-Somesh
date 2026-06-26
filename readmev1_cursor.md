@@ -8,11 +8,14 @@
 <h3 align="center">System Admin · Automation Specialist · AI & Wellbeing Innovator</h3>
 
 <p align="center">
-  <a href="https://someshbhardwaj.me">
-    <img src="https://img.shields.io/badge/Portfolio-someshbhardwaj.me-0f172a?style=for-the-badge&logo=google-chrome&logoColor=7DD3FC" alt="Portfolio"/>
+  <a href="https://someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/Portfolio-someshbhardwaj.dev-0f172a?style=for-the-badge&logo=google-chrome&logoColor=7DD3FC" alt="Portfolio"/>
+  </a>
+  <a href="mailto:hello@someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/hello@someshbhardwaj.dev-0f172a?style=for-the-badge&logo=maildotru&logoColor=7DD3FC" alt="Email"/>
   </a>
   <a href="mailto:ITDeveloper06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ITDeveloper06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/ITDeveloper06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/LinkedIn-ersomeshbhardwaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -35,7 +38,8 @@
 <tr>
 <td width="50%" valign="top">
 
-✨ **Tech tinkerer** since 2023  
+✨ **In tech since 2012** (B.Tech, Computer Science)  
+🏢 **Contentment Foundation** since Feb 2021  
 📍 India · IST (UTC+5:30)  
 🎯 **Mission:** Simplify complex workflows and boost productivity through smart automation  
 🧘 **Edge:** Blending technology and wellbeing to build purposeful, human-centered solutions  
@@ -67,9 +71,15 @@
 ## 🛤️ My Journey
 
 ```
-2023 ── Started my tech journey · SysAdmin foundations & IT support
-2024 ── Deep dive into automation · Playwright, Make.com, PowerShell, Bash
-2025 ── AI civic tools & Mindful Assistant · wellbeing × intelligent automation
+2012 ── B.Tech, Computer Science · entered the tech field
+      └─ Development, systems, QA, and engineering foundations
+
+2012–2021 ── Continued tech engagement across projects and roles
+      └─ Test automation · product thinking · systems work
+
+2021 ── Contentment Foundation (Feb) · AI automation & platform operations
+2022 ── Deep dive into automation · Playwright, Make.com, PowerShell, Bash
+2024 ── AI civic tools & Mindful Assistant · wellbeing × intelligent automation
 2026 ── Chrome extensions, Workspace add-ons · scaling ops with AI workflows
 ```
 
@@ -277,13 +287,16 @@ Exploring intelligent companion tools that support daily reflection, focus track
 </p>
 
 <p align="center">
+  <a href="mailto:hello@someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/Say%20Hello-hello@someshbhardwaj.dev-0f172a?style=for-the-badge&logo=maildotru&logoColor=7DD3FC" alt="Email"/>
+  </a>
   <a href="mailto:ITDeveloper06@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-ITDeveloper06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-ITDeveloper06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://someshbhardwaj.me">
+  <a href="https://someshbhardwaj.dev">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=7DD3FC" alt="Website"/>
   </a>
 </p>

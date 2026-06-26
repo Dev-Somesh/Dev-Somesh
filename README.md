@@ -5,12 +5,12 @@
 
 <h2 align="left">About Me</h2>
 
-<a href="https://someshbhardwaj.me">
+<a href="https://someshbhardwaj.dev">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <p align="left">
-✨ Tech tinkerer since 2023<br>
+✨ In tech since **2012** (B.Tech, Computer Science) · **Contentment Foundation** since **Feb 2021**<br>
 📚 Currently exploring AI integration and automation with Playwright<br>
 🎯 Goal: To simplify complex workflows and boost productivity through smart automation<br>
 🎲 Fun fact: I love blending technology and wellbeing to build purposeful, human-centered solutions.
@@ -100,13 +100,16 @@ Whether you're automating systems, building productivity tools, or exploring AI 
 </p>
 
 <p align="left">
+  <a href="mailto:hello@someshbhardwaj.dev">
+    <img src="https://img.shields.io/badge/hello@someshbhardwaj.dev-000?style=for-the-badge&logo=maildotru&logoColor=white" />
+  </a>
   <a href="mailto:ITDeveloper06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/ITDeveloper06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ersomeshbhardwaj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://someshbhardwaj.me">
+  <a href="https://someshbhardwaj.dev">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
