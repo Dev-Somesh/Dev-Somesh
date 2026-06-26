@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Automating+IT+ops+with+Playwright+%26+AI;🌐+Building+Chrome+Extensions+%26+Workspace+Add-ons;🧘+Merging+mindfulness+with+intelligent+automation;⚙️+Turning+repetitive+workflows+into+one-click+magic;🔧+SysAdmin+%7C+Scripting+%7C+Full-Stack+Dev" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=750&lines=Automating+IT+ops+with+Playwright+%26+AI;Building+Chrome+Extensions+%26+Workspace+Add-ons;Merging+mindfulness+with+intelligent+automation;Turning+repetitive+workflows+into+one-click+magic;SysAdmin+%7C+Scripting+%7C+Full-Stack+Dev" alt="Typing animation"/>
 </p>
 
 <p align="center">
