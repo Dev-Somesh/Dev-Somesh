@@ -222,9 +222,148 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 
 ---
 
-## `$ gh repo list --public --featured`
+## `$ gh repo list --featured --sort=commits`
 
-> Pinned on profile · click through to explore
+> Your **most-built repositories** ranked by commit activity — public repos are clickable · private repos shown as profile cards (case-study walkthrough on request)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Featured%20By-Commit%20Activity-10B981?style=for-the-badge" alt="Featured"/>
+  <img src="https://img.shields.io/badge/Public-Click%20Through-F59E0B?style=for-the-badge" alt="Public"/>
+  <img src="https://img.shields.io/badge/Private-Summarized-064E3B?style=for-the-badge&logo=github&logoColor=10B981" alt="Private"/>
+</p>
+
+| # | Repository | Commits | | Language | What it is |
+|:-:|------------|:-------:|:-:|----------|------------|
+| 1 | `FlourishOS-Archive` | **282** | 🔒 | TypeScript | **Event Pro** — Contentment Foundation event & engagement platform |
+| 2 | [**adhirachna**](https://github.com/Dev-Somesh/adhirachna) | **208** | 🌐 | TypeScript | React app — auth, blog, admin dashboard, Supabase + Contentful |
+| 3 | `curryosity-by-seeds-of-life` | **100** | 🔒 | TypeScript | Official **Curryosity Card Games** website — SEO, interactive UX |
+| 4 | `someshbhardwajdev` | **99** | 🔒 | TypeScript | **[someshbhardwaj.dev](https://someshbhardwaj.dev)** — AI-powered portfolio site |
+| 5 | `Somesh-Bhardwaj-Portfolio-Ai-Chatbot` | **92** | 🔒 | TypeScript | Portfolio + **Gemini AI chatbot** integration |
+| 6 | [**justflow**](https://github.com/Dev-Somesh/justflow) | **79** | 🌐 | TypeScript | Workflow automation & PM — visual builders, monitoring, integrations |
+| 7 | `aiokr` | **79** | 🔒 | TypeScript | OKR tracking & goal-management platform |
+| 8 | [**Dev-Wrapped**](https://github.com/Dev-Somesh/Dev-Wrapped) | **69** | 🌐 | TypeScript | Developer **year wrapped** — your GitHub story in a calendar year |
+| 9 | `conference_dossier` | **49** | 🔒 | TypeScript | Conference dossier & event content platform |
+| 10 | [**forge-studio-4K-FHD**](https://github.com/Dev-Somesh/forge-studio-4K-FHD) | **44** | 🌐 | TypeScript | AI-powered FHD/4K wallpaper engine |
+| 11 | `mindful-focusmate` | **19** | 🔒 | TypeScript | **Mindful Assistant** — AI focus, reflection & wellbeing |
+| 12 | [**CarbonWise_Coach**](https://github.com/Dev-Somesh/CarbonWise_Coach) | **13** | 🌐 | TypeScript | AI sustainability coaching — carbon footprint tracking |
+| 13 | `AI_civic_issue_reporting` | **13** | 🔒 | Python | **AI Civic Issue Reporter** — community issue reporting |
+
+<br/>
+
+### Top showcase — repo cards
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔒 `FlourishOS-Archive` · **282 commits**
+![Private](https://img.shields.io/badge/🔒-Private-064E3B?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-282-10B981?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Live](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+
+> **Event Pro** by Contentment Foundation — full event management, engagement dashboards, and org-wide event operations. *My most-committed repository.*
+
+`Stack` TypeScript · React · Supabase · Slack APIs
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 [adhirachna](https://github.com/Dev-Somesh/adhirachna) · **208 commits**
+![Public](https://img.shields.io/badge/🌐-Public-F59E0B?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-208-10B981?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Live](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+
+> Modern full-stack web app — authentication, blog system, user management, analytics, and admin dashboard.
+
+`Stack` React · TypeScript · Supabase · Contentful · Netlify
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔒 `curryosity-by-seeds-of-life` · **100 commits**
+![Private](https://img.shields.io/badge/🔒-Private-064E3B?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-100-10B981?style=flat-square)
+![Live](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+
+> Official website for **Curryosity Card Games** — interactive, SEO-optimized React site for Seeds of Life Creations.
+
+`Stack` TypeScript · React · Tailwind · Netlify
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔒 `someshbhardwajdev` · **99 commits**
+![Private](https://img.shields.io/badge/🔒-Private-064E3B?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-99-10B981?style=flat-square)
+![Live](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+
+> Source for **[someshbhardwaj.dev](https://someshbhardwaj.dev)** — AI-powered portfolio with modern dark-theme UX.
+
+`Stack` TypeScript · React · Framer Motion · AI chat
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔒 `Somesh-Bhardwaj-Portfolio-Ai-Chatbot` · **92 commits**
+![Private](https://img.shields.io/badge/🔒-Private-064E3B?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-92-10B981?style=flat-square)
+![Live](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+
+> Portfolio with integrated **Gemini 3.0 chatbot** — interactive case studies and conversational navigation.
+
+`Stack` TypeScript · React · Gemini API
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 [justflow](https://github.com/Dev-Somesh/justflow) · **79 commits**
+![Public](https://img.shields.io/badge/🌐-Public-F59E0B?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-79-10B981?style=flat-square)
+![Live](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+
+> Workflow automation & project management — visual workflow building, task management, real-time monitoring.
+
+`Stack` TypeScript · React · Node.js
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔒 `aiokr` · **79 commits**
+![Private](https://img.shields.io/badge/🔒-Private-064E3B?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-79-10B981?style=flat-square)
+![Live](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+
+> OKR tracking platform — goals, key results, team alignment, and progress dashboards.
+
+`Stack` TypeScript · React · Supabase
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 [Dev-Wrapped](https://github.com/Dev-Somesh/Dev-Wrapped) · **69 commits**
+![Public](https://img.shields.io/badge/🌐-Public-F59E0B?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-69-10B981?style=flat-square)
+![Live](https://img.shields.io/badge/Status-Live-10B981?style=flat-square)
+
+> **Developer year wrapped** — full calendar-year story of a developer's GitHub contributions and milestones.
+
+`Stack` TypeScript · React · GitHub API
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Public repos — live GitHub cards
 
 <p align="center">
   <a href="https://github.com/Dev-Somesh/adhirachna">
@@ -244,43 +383,7 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Dev-Somesh/carbontrace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=carbontrace&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="carbontrace"/>
-  </a>
-</p>
-
-| Repository | Commits | Language | Visibility | What it is |
-|------------|:-------:|----------|:----------:|------------|
-| [**adhirachna**](https://github.com/Dev-Somesh/adhirachna) | `208` | TypeScript | 🌐 Public | Modern React app — auth, blog, admin dashboard, Supabase + Contentful + Netlify |
-| [**justflow**](https://github.com/Dev-Somesh/justflow) | `79` | TypeScript | 🌐 Public | Workflow automation & project management — visual builders, monitoring, integrations |
-| [**Dev-Wrapped**](https://github.com/Dev-Somesh/Dev-Wrapped) | `69` | TypeScript | 🌐 Public | Developer "year wrapped" — calendar-year story of your GitHub work |
-| [**CarbonWise_Coach**](https://github.com/Dev-Somesh/CarbonWise_Coach) | `13` | TypeScript | 🌐 Public | AI sustainability coaching — carbon footprint tracking & recommendations |
-| [**carbontrace**](https://github.com/Dev-Somesh/carbontrace) | `4` | JavaScript | 🌐 Public | Carbon tracking companion tooling |
-
----
-
-## `$ gh repo list --private --vault`
-
-> Enterprise & client work · private repos — summarized here because they can't be pinned publicly
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔒-Private%20Repository%20Vault-064E3B?style=for-the-badge&logo=github&logoColor=10B981" alt="Private Vault"/>
-</p>
-
-| Repository | Commits | Stack | Status | What it is |
-|------------|:-------:|-------|:------:|------------|
-| `FlourishOS-Archive` | **282** | TypeScript · React | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | **Event Pro** — Contentment Foundation event & engagement platform |
-| `curryosity-by-seeds-of-life` | **100** | TypeScript · React | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | Official **Curryosity Card Games** website — SEO, interactive UX |
-| `someshbhardwajdev` | **99** | TypeScript | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | **someshbhardwaj.dev** portfolio — AI-powered personal site |
-| `Somesh-Bhardwaj-Portfolio-Ai-Chatbot` | **92** | TypeScript | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | Portfolio + **Gemini AI chatbot** integration |
-| `aiokr` | **79** | TypeScript | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | OKR tracking & goal-management platform |
-| `Contentment-OS-AI` | **2** | TypeScript | ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square) | **Contentment OS** — internal AI ops & platform tooling |
-| `mindful-focusmate` | **19** | TypeScript | ![WIP](https://img.shields.io/badge/WIP-F59E0B?style=flat-square) | **Mindful Assistant** — AI focus, reflection & wellbeing companion |
-| `AI_civic_issue_reporting` | **13** | Python | ![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) | **AI Civic Issue Reporter** — community issue reporting & tracking |
-| `Eira-Ethnics-Dashboard` | **6** | TypeScript | ![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square) | Eira Ethnics business dashboard |
-
-<sub>🔒 Private · commit counts from default branch history · repos available for case-study walkthrough on request</sub>
+<sub>🔒 Private repos · commit counts from default-branch history · ranked by total commits · case-study walkthrough on request</sub>
 
 ---
 
