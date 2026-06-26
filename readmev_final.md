@@ -367,19 +367,19 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 
 <p align="center">
   <a href="https://github.com/Dev-Somesh/adhirachna">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=adhirachna&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="adhirachna"/>
+    <img src="./profile/pin-adhirachna.svg" alt="adhirachna"/>
   </a>
   <a href="https://github.com/Dev-Somesh/justflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=justflow&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="justflow"/>
+    <img src="./profile/pin-justflow.svg" alt="justflow"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Dev-Somesh/Dev-Wrapped">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=Dev-Wrapped&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="Dev-Wrapped"/>
+    <img src="./profile/pin-dev-wrapped.svg" alt="Dev-Wrapped"/>
   </a>
   <a href="https://github.com/Dev-Somesh/CarbonWise_Coach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Somesh&repo=CarbonWise_Coach&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7" alt="CarbonWise_Coach"/>
+    <img src="./profile/pin-carbonwise-coach.svg" alt="CarbonWise_Coach"/>
   </a>
 </p>
 
@@ -538,13 +538,15 @@ IT cost dashboards · SaaS usage analytics · GAT+ audits · KPI tracking · dat
 ## `$ github-stats --user Dev-Somesh`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Somesh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=10B981&icon_color=F59E0B&text_color=6EE7B7&ring_color=10B981" alt="GitHub Stats" height="180"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Somesh&hide_border=true&background=0d1117&stroke=10B981&ring=F59E0B&fire=10B981&currStreakLabel=6EE7B7&sideLabels=6EE7B7&currStreakNum=F59E0B&sideNums=10B981&dates=6EE7B7" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Somesh&layout=compact&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=6EE7B7&langs_count=10" alt="Top Languages"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
+
+<sub>Stats cards generated via GitHub Actions · updated daily · no external API dependency</sub>
 
 ---
 
