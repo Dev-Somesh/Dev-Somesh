@@ -316,7 +316,7 @@ An intelligent companion for daily reflection, focus tracking, and balanced prod
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Somesh&theme=tokyonight&no-frame=true&row=1&column=6&margin_w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Dev-Somesh&theme=tokyonight&no-frame=true&row=1&column=6&margin_w=8" alt="GitHub Trophies"/>
 </p>
 
 ---

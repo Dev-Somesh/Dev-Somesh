@@ -257,7 +257,7 @@ Exploring intelligent companion tools that support daily reflection, focus track
 ## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Somesh&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Dev-Somesh&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
