@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">This repo provides a Full year wrapped story of a developer's</tspan><tspan dy="1.2em" x="25">work in a calendar year</tspan>
+      <tspan dy="1.2em" x="25">This repo provides a Full year wrapped story of a developer&#39;s</tspan><tspan dy="1.2em" x="25">work in a calendar year</tspan>
     </text>
 
     <g transform="translate(30, 65)">
